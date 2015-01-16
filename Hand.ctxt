@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=card
+comment0.target=void\ nextCard(Card)
+comment0.text=\r\n\ \ This\ method\ adds\ a\ card\ to\ the\ player's\ hand.\r\n\ \ \r\n\ \ It\ accomplishes\ this\ by\ taking\ the\ next\ card\ in\ the\ array\ and\ adding\ it\ to\ the\ hand\r\n
+comment1.params=
+comment1.target=void\ printHand()
+comment1.text=\r\n\ \ This\ method\ print\ the\ cards\ in\ a\ hand\ out.\r\n
+comment2.params=
+comment2.target=int\ handValue()
+comment2.text=\r\n\ \ This\ method\ calculates\ the\ sum\ of\ the\ hand.\r\n\ \ \r\n\ \ It\ does\ this\ by\ going\ through\ each\ card\ in\ the\ array\ of\ the\ hand\r\n\ \ and\ adding\ it\ to\ the\ int\ total\r\n
+numComments=3

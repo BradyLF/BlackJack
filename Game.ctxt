@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ \ This\ is\ the\ constructor.\ \r\n
+comment1.params=
+comment1.target=void\ printWelcome()
+comment1.text=\r\n\ \ This\ method\ prints\ the\ welcome\ message\ to\ the\ player.\r\n\ \ It\ also\ calls\ them\ a\ "high\ roller"\r\n\ \ But\ we\ all\ know\ the\ term\ "end\ user"\ is\ only\ code\ for\r\n\ \ "person\ who\ will\ try\ to\ break\ your\ code"\r\n\ \ \r\n\ \ Exhibit\ A\:\ https\://i.imgur.com/X17puIB.gif\r\n
+comment2.params=
+comment2.target=void\ printHands()
+comment2.text=\r\n\ \ This\ method\ prints\ the\ user\ and\ the\ dealer's\r\n\ \ current\ cards\ in\ the\ console.\r\n\ \ \r\n\ \ technically\ you\ should\ only\ be\ able\ to\ see\r\n\ \ one\ of\ the\ dealer's\ cards\ but\ this\ is\ what\r\n\ \ I\ was\ able\ to\ do\r\n
+comment3.params=
+comment3.target=void\ dealCards()
+comment3.text=\r\n\ \ This\ method\ deals\ the\ cards\r\n\ \ \r\n\ \ It\ does\ this\ by\ dealing\ to\ the\ user,\ then\ the\ dealer\r\n\ \ It\ repeats\ this\ twice\r\n
+comment4.params=
+comment4.target=char\ getChar()
+comment4.text=\r\n\ \ This\ method\ is\ for\ when\ the\ user\ enters\ the\ (y/n).\r\n\ \ \r\n\ \ This\ uses\ Java's\ Scanner\ that\ was\ imported\ at\ the\ top\r\n\ \ to\ scan\ the\ user's\ imput\r\n
+comment5.params=
+comment5.target=void\ play()
+comment5.text=\r\n\ \ Here\ is\ the\ Game\ Method\ in\ all\ it's\ glory\r\n\ \ \r\n\ \ This\ method\ was\ brought\ to\ you\ by\ late\ nights,\ lots\ of\ soda,\ and\ help\ from\ friends\r\n\ \ it\ features\ while\ loops\ within\ while\ loops\ and\ if's\ like\ you've\ never\ seen\ before\r\n\ \ \r\n\ \ In\ this\ method\ you'll\ find\ the\ cards\ being\ dealt\ and\ game\ being\ set\ up\r\n\ \ This\ method\ is\ also\ where\ the\ funtionality\ for\ the\ asking\ the\ user\ a\ y/n\ question\ is\r\n
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Card[]\ getDeck()
+comment0.text=\r\n\ \ This\ method\ returns\ the\ array\ of\ the\ deck.\r\n
+comment1.params=
+comment1.target=Deck()
+comment1.text=\r\n\ \ This\ creates\ all\ the\ cards\ in\ the\ deck\r\n\ \ It\ does\ this\ by\ looping\ through\ each\ suit\ an\ each\ rank\r\n
+comment2.params=
+comment2.target=boolean\ empty()
+comment2.text=\r\n\ \ This\ method\ makes\ sure\ there\ are\ cards\ left\ in\ the\ deck\r\n
+comment3.params=
+comment3.target=Card\ dealCard()
+comment3.text=\r\n\ \ This\ method\ deals\ a\ card.\r\n\ \ \r\n\ \ This\ is\ done\ by\ making\ the\ card\ a\ local\ variable\ an\ then\ \r\n\ \ clearing\ the\ cards\ spot\ in\ the\ array\ of\ the\ deck\r\n
+comment4.params=
+comment4.target=int\ cardsLeft()
+comment4.text=\r\n\ \ This\ method\ checks\ how\ many\ cards\ are\ left\ in\ the\ deck\r\n\ \ \r\n\ \ This\ is\ done\ by\ taking\ the\ total\ number\ fo\ cards\ and\ \r\n\ \ substracting\ the\ cards\ taken\r\n
+comment5.params=
+comment5.target=void\ shuffleDeck()
+comment5.text=\r\n\ \ This\ shuffles\ the\ deck\ of\ cards.\r\n\ \ \r\n\ \ This\ is\ done\ by\ taking\ two\ random\ cards\ in\ the\ deck\ and\ \r\n\ \ switching\ them\ 1000000\ times\ to\ ensure\ the\ deck\ is\ mixed\ thuroughly\r\n\ \ \r\n
+numComments=6
